@@ -1,8 +1,17 @@
 # ☕ Memoir — Cozy Coffee Journal
 
-> A cozy, premium digital journal web application built with vanilla HTML, CSS, and JavaScript. No frameworks, no libraries, no build tools, no backend, and no external dependencies. Runs 100% offline in your browser.
+> A cozy, premium digital journal web application built with pure vanilla HTML, CSS, and JavaScript. No frameworks, no libraries, no build tools, no backend, and no external dependencies. Runs 100% offline in your browser.
+
+🌐 **Live Demo:** [https://memoir-v2.vercel.app/](https://memoir-v2.vercel.app/)
 
 ![Memoir Dashboard](https://raw.githubusercontent.com/Samahith2311/Memoir-v2/main/assets/memoir_dashboard.png)
+
+---
+
+## 🌟 Live Application
+
+Experience Memoir directly in your browser:
+👉 **[https://memoir-v2.vercel.app/](https://memoir-v2.vercel.app/)**
 
 ---
 
@@ -24,9 +33,19 @@
 
 ---
 
+## 📸 Screenshots
+
+| Feature | Preview |
+|---|---|
+| **Monthly Calendar** | ![Calendar](https://raw.githubusercontent.com/Samahith2311/Memoir-v2/main/assets/memoir_calendar.png) |
+| **Deep Espresso Dark Mode** | ![Dark Mode](https://raw.githubusercontent.com/Samahith2311/Memoir-v2/main/assets/memoir_dark_mode.png) |
+| **Mobile Experience** | ![Mobile View](https://raw.githubusercontent.com/Samahith2311/Memoir-v2/main/assets/memoir_mobile.png) |
+
+---
+
 ## 🚀 Quick Start
 
-No installation or build step required! Simply open `index.html` in any modern web browser:
+No installation or build step required! Simply open `index.html` in any modern web browser or run it locally:
 
 ```bash
 # Clone the repository
